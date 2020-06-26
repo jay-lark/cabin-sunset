@@ -7,7 +7,7 @@ I put together these scripts that will:
 
 # Requirements
 - Python 3 (Tested on 3.7.3)
-- Raspberry Pi OS (Should work on any )
+- Raspberry Pi OS 
 
 # Installation
 
