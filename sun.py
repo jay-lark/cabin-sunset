@@ -11,7 +11,8 @@ city_name = "xxxx"
 city_timezone = "US/Eastern"
 city_lat = "xxxx"
 city_long = "xxxx"
-today_sunset = ""
+
+today_sunset = ""  # leave empty
 
 
 def get_sunset():
